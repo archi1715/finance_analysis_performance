@@ -92,7 +92,7 @@ Country-level performance
 Average monthly sales growth
 
 ### Sales Overview
-![Sales Overview](finance%20performance%20management%20(SS)/sales_overview.png)
+![Sales Overview](finance%20performance%20dashboard%20(BA)/finance%20performance%20management%20(SS)/sales_overview.png)
 
 
 
@@ -103,7 +103,7 @@ Top profit-generating segments
 Profit margin comparison
 Most profitable products
 ### Profitability Analysis
-![Profitability](finance%20performance%20management%20(SS)/profitability.png)
+![Profitability](finance%20performance%20dashboard%20(BA)/finance%20performance%20management%20(SS)/profitability.png)
 
 
 
@@ -115,7 +115,7 @@ Discount distribution across products
 Impact of discount bands on profit
 Cost-to-sales ratio analysis
 ### Discount Analysis
-![Discount](finance%20performance%20management%20(SS)/discount.png)
+![Discount](finance%20performance%20dashboard%20(BA)/finance%20performance%20management%20(SS)/discount.png)
 
 
 
@@ -126,4 +126,4 @@ Sales distribution across countries
 Regional profit comparison
 Market growth opportunities
 ### Regional Analysis
-![Regional](finance%20performance%20management%20(SS)/regional.png)
+![Regional](finance%20performance%20dashboard%20(BA)/finance%20performance%20management%20(SS)/regional.png)
