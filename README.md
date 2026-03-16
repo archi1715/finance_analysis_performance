@@ -1,10 +1,10 @@
-📊 Financial Performance Analytics Dashboard
+# 📊 Financial Performance Analytics Dashboard
 An interactive Business Intelligence dashboard built using Power BI to analyze financial performance across products, segments, and countries.
 The project focuses on transforming raw financial data into meaningful insights that help businesses understand revenue trends, profitability drivers, discount impact, and regional performance.
 The dashboard enables stakeholders to monitor key financial metrics and make data-driven strategic decisions.
 
 
-📌 Business Problem
+# 📌 Business Problem
 Organizations generate large volumes of financial data across multiple products, markets, and customer segments. However, without proper analytics tools, it becomes difficult to identify:
 Which products generate the most revenue and profit
 Which segments contribute most to overall business performance
@@ -14,7 +14,7 @@ How sales trends change over time
 Without a centralized analytical system, decision-makers struggle to monitor performance and optimize strategies.
 
 
-🎯 Project Objective
+# 🎯 Project Objective
 The objective of this project is to develop a Financial Performance Dashboard that provides a clear overview of business performance through interactive visualizations.
 The dashboard helps stakeholders:
 Monitor sales and profit performance
@@ -24,7 +24,7 @@ Understand regional market performance
 Analyze sales trends over time
 
 
-🏆 Project Goal
+# 🏆 Project Goal
 The main goal of this project is to build an interactive Power BI dashboard that transforms raw financial data into actionable business insights.
 Key goals include:
 Creating meaningful financial KPIs
@@ -34,7 +34,7 @@ Evaluating discount impact on sales
 Presenting insights through professional dashboard design
 
 
-🗂 Dataset Information
+# 🗂 Dataset Information
 The dataset used in this project contains financial transaction data across multiple business dimensions.
 Key Dataset Fields: 
 Business Dimensions:
@@ -59,7 +59,7 @@ Year
 These fields allow analysis of sales performance, cost efficiency, and profitability trends.
 
 
-⚙️ Tools & Technologies Used
+# ⚙️ Tools & Technologies Used
 | Tool            | Purpose                                      |
 | --------------- | -------------------------------------------- |
 | **Power BI**    | Dashboard development and data visualization |
@@ -68,7 +68,7 @@ These fields allow analysis of sales performance, cost efficiency, and profitabi
 | **GitHub**      | Project documentation and portfolio hosting  |
 
 
-📊 Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 The dashboard tracks several financial performance indicators:
 Total Sales
 Total Profit
@@ -80,11 +80,11 @@ COGS to Sales Ratio
 These KPIs provide insights into both revenue growth and cost efficiency.
 
 
-📈 Dashboard Sections
+# 📈 Dashboard Sections
 
 The dashboard is structured into multiple analytical sections.
 
-1️⃣ Sales Overview
+## 1️⃣ Sales Overview
 Provides insights into overall revenue performance including:
 Sales by product and segment
 Monthly sales trends
@@ -96,7 +96,7 @@ Average monthly sales growth
 
 
 
-2️⃣ Profitability Analysis
+## 2️⃣ Profitability Analysis
 Analyzes profit contribution across different segments and products.
 This section helps identify:
 Top profit-generating segments
@@ -107,7 +107,7 @@ Most profitable products
 
 
 
-3️⃣ Discount & Cost Analysis
+## 3️⃣ Discount & Cost Analysis
 Examines how discounts and product costs influence profitability.
 Key insights include:
 Total discounts given
@@ -119,7 +119,7 @@ Cost-to-sales ratio analysis
 
 
 
-4️⃣ Regional Performance
+## 4️⃣ Regional Performance
 Provides geographic insights into business performance.
 This section highlights:
 Sales distribution across countries
