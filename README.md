@@ -127,3 +127,55 @@ Regional profit comparison
 Market growth opportunities
 ### Regional Analysis
 ![Regional](finance%20performance%20dashboard%20(BA)/finance%20performance%20management%20(SS)/regional.png)
+
+
+
+# 📂 Repository Files
+| File                                                  | Description             |
+| ----------------------------------------------------- | ----------------------- |
+| `finance_performance_dashboard.pbix`                  | Power BI dashboard file |
+| `financial_data.csv`                                  | Original dataset        |
+| `cleaned_financial_data.xls`                          | Processed dataset       |
+| `Financial Performance Analytics Dashboard (ppt).pdf` | Project presentation    |
+| `finance performance management (SS)`                 | Dashboard screenshots   |
+
+
+# 🔍 Key Insights
+Several valuable business insights were identified from this analysis:
+Product Paseo generates the highest revenue and profit.
+The Government segment contributes the largest share of profit.
+The Enterprise segment shows negative profitability, indicating potential pricing or cost issues.
+Higher discount levels significantly impact profit margins.
+European markets such as France and Germany show strong performance.
+
+
+# 🚀 Project Outcome
+This project successfully transformed financial data into an interactive business intelligence dashboard that helps stakeholders:
+Monitor financial performance
+Identify growth opportunities
+Optimize pricing and discount strategies
+Improve profitability
+The dashboard demonstrates how data visualization can support strategic business decisions.
+
+
+# 🧠 Skills Demonstrated
+This project showcases several key data analytics and BI skills:
+#### Data Analysis:
+Financial data analysis
+KPI development
+Business insight generation
+#### Data Visualization :
+Interactive dashboard design
+Storytelling with data
+Visual analytics
+#### Technical Skills :
+Power BI
+DAX Calculations
+Data Modeling
+Excel Data Processing
+
+
+##👨‍💻 Author
+#Archi Dholiya
+Aspiring Data Analyst passionate about data analytics, visualization, and business intelligence.
+
